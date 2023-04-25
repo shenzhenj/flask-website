@@ -1,2 +1,2 @@
 # flask-website
-Some tries in Flask
+Some tries in Flask (static page).
